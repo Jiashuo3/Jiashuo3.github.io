@@ -1,11 +1,11 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Jiashuo Jiang
+description: Jiashuo is a PhD student at NYU 
+keywords: Jiashuo
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+Jiashuo is a fifth year PhD student in the Operations Management group at New York University, Stern School of Business. He is broadly interested in studying sequential decision making problems, with applications in revenue management, supply chain management and mechanism design. Jiashuo is advised by Prof. Jiawei Zhang and Prof. Will Ma. In January 2023, Jiashuo will join HKUST IEDA as an assistant professor.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
