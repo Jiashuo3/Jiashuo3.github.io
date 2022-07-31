@@ -18,14 +18,14 @@ Jiashuo is a fifth year PhD student in the Operations Management group at New Yo
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Jiashuo Jiang<br/>
+            Email: jj2398@stern.nyu.edu<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Jiashuo Jiang" alt="Jiashuo Jiang"/></a>
         </div>
     </div>
 </div>
@@ -35,7 +35,6 @@ Jiashuo is a fifth year PhD student in the Operations Management group at New Yo
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
       </ul>
   </div>
 </div>
